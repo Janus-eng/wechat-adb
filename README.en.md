@@ -1,5 +1,7 @@
 # wechat-adb
 
+[简体中文](README.md) | **English**
+
 Hands-on notes and helper scripts for driving WeChat over `adb`.
 
 Not reverse engineering, not hooking, not modifying the client: just public
