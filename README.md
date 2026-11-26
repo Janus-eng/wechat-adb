@@ -1,5 +1,7 @@
 # wechat-adb
 
+**简体中文** | [English](README.en.md)
+
 用 adb 做微信界面自动化的实操记录和封装脚本。
 
 不是逆向，不是 hook，不碰微信客户端：只用公开的 `adb` 命令和开源的
